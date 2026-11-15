@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please credit SZL Holdings."
+title: "szl-acoustic-research - Placeholder â€” acoustic research workspace for SZL Holdings. No source yet (SZL Holdings governed-AI estate)"
+authors:
+  - name: SZL Holdings
+type: software
+license: Apache-2.0
+repository-code: "https://github.com/szl-holdings/szl-acoustic-research"
+keywords:
+  - governed-ai
+  - provenance
+  - szl-holdings
